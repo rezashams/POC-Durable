@@ -1,0 +1,2937 @@
+[
+ {
+  "OID": "SE_INITIALVISIT",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_DEMOGRAPHICS_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_DEMOG_DEMO",
+      "Items": [
+       {
+        "OID": "I_DEMOG_DEM_AGE",
+        "Value": "35 Years "
+       },
+       {
+        "OID": "I_DEMOG_DEM_EDU",
+        "Value": "3"
+       },
+       {
+        "OID": "I_DEMOG_DEM_ETH",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_GEN",
+        "Value": "1"
+       },
+       {
+        "OID": "I_DEMOG_DEM_MAR",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_RACE",
+        "Value": "1,2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_DIABETESHIST_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_DIABE_DIABETES",
+      "Items": [
+       {
+        "OID": "I_DIABE_AUTONOMIC_NEUROPATHY_MHOCCU",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_DIABETES_CMOCCUR",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_DIABETES_MHSTDAT",
+        "Value": "2015-08-20"
+       },
+       {
+        "OID": "I_DIABE_DIABETIC_NEPHROPATHY_MHOCCU",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_INSULIN_CMOCCUR",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_OTHER_DIABETIC_NEUROPATHY_M",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_RETINOPATHY_MHOCCUR",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_SEVERE_HYPOGLYCEMIC_REACTIO",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_SGOCCUR",
+        "Value": "N"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_INCLUSIONEXC_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_INCLU_ELIGIBILITY",
+      "Items": [
+       {
+        "OID": "I_INCLU_EX_EVINF",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_HEP",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_MENTL",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_OGTT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_PREG",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_RECNT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_STRKE",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_INEX_ELIG",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_18YO",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_CMSSR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_DT_IC",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_INCLU_IN_FLENG",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_FPLGL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_HEAC1",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_IC",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_T2MEL",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_LOCALLABORAT_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_LOCAL_TESTS",
+      "Items": [
+       {
+        "OID": "I_LOCAL_ALB_UNITS",
+        "Value": "g/dL"
+       },
+       {
+        "OID": "I_LOCAL_CAL_UNITS",
+        "Value": "mg/dL"
+       },
+       {
+        "OID": "I_LOCAL_CH_ALB",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_CH_CAL",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_CH_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_CH_POT",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_HEM_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_HEM_HEM",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RBC",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RHE",
+        "Value": "55"
+       },
+       {
+        "OID": "I_LOCAL_HEM_UNITS",
+        "Value": "gm/dL"
+       },
+       {
+        "OID": "I_LOCAL_HEM_WBC",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_POT_UNITS",
+        "Value": "mEq/L"
+       },
+       {
+        "OID": "I_LOCAL_RBC_UNITS",
+        "Value": "trillion cells/L"
+       },
+       {
+        "OID": "I_LOCAL_RHE_UNITS",
+        "Value": "IU/mL"
+       },
+       {
+        "OID": "I_LOCAL_SITE_AB",
+        "Value": "101"
+       },
+       {
+        "OID": "I_LOCAL_SITE_DEC",
+        "Value": "SiteA"
+       },
+       {
+        "OID": "I_LOCAL_UR_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_UR_LEUK",
+        "Value": "0"
+       },
+       {
+        "OID": "I_LOCAL_UR_NITR",
+        "Value": "0"
+       },
+       {
+        "OID": "I_LOCAL_UR_PRO",
+        "Value": "9"
+       },
+       {
+        "OID": "I_LOCAL_WBC_UNITS",
+        "Value": "billion cells/L"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_MEDICALHISTO_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MEDIC_G1",
+      "Items": [
+       {
+        "OID": "I_MEDIC_PER_DATE",
+        "Value": "1990-02-11"
+       },
+       {
+        "OID": "I_MEDIC_PER_DIAG",
+        "Value": "Type 2 Diabetes"
+       }
+      ]
+     },
+     {
+      "OID": "IG_MEDIC_G2",
+      "Items": [
+       {
+        "OID": "I_MEDIC_FAM_DATE",
+        "Value": "2010-08-03"
+       },
+       {
+        "OID": "I_MEDIC_FAM_DIAG",
+        "Value": "Melanoma"
+       },
+       {
+        "OID": "I_MEDIC_FAM_ID",
+        "Value": "1"
+       }
+      ]
+     },
+     {
+      "OID": "IG_MEDIC_G2",
+      "Items": [
+       {
+        "OID": "I_MEDIC_FAM_DATE",
+        "Value": "2011-09-05"
+       },
+       {
+        "OID": "I_MEDIC_FAM_DIAG",
+        "Value": "High Blood Pressure"
+       },
+       {
+        "OID": "I_MEDIC_FAM_ID",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VERIFICATION_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VERIF_VERIFY",
+      "Items": [
+       {
+        "OID": "I_VERIF_ELIGIBILITY_CONF",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VERIF_VERI_DATE",
+        "Value": "2015-08-03"
+       },
+       {
+        "OID": "I_VERIF_VERI_INIT",
+        "Value": "JMG"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VITALSIGNS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VITAL_BPLOG",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_DIABP",
+        "Value": "80"
+       },
+       {
+        "OID": "I_VITAL_VS_HR",
+        "Value": "80"
+       },
+       {
+        "OID": "I_VITAL_VS_SYSBP",
+        "Value": "110"
+       },
+       {
+        "OID": "I_VITAL_VS_TYPE",
+        "Value": "Supine"
+       }
+      ]
+     },
+     {
+      "OID": "IG_VITAL_BPLOG",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_DIABP",
+        "Value": "82"
+       },
+       {
+        "OID": "I_VITAL_VS_HR",
+        "Value": "81"
+       },
+       {
+        "OID": "I_VITAL_VS_SYSBP",
+        "Value": "112"
+       },
+       {
+        "OID": "I_VITAL_VS_TYPE",
+        "Value": "Standing"
+       }
+      ]
+     },
+     {
+      "OID": "IG_VITAL_VITALS",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_AVDIA",
+        "Value": "81"
+       },
+       {
+        "OID": "I_VITAL_VS_AVHR",
+        "Value": "81"
+       },
+       {
+        "OID": "I_VITAL_VS_AVSYS",
+        "Value": "111"
+       },
+       {
+        "OID": "I_VITAL_VS_BMI",
+        "Value": "21.1"
+       },
+       {
+        "OID": "I_VITAL_VS_BPHR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VITAL_VS_COMM",
+        "Value": "N/A"
+       },
+       {
+        "OID": "I_VITAL_VS_HGHT",
+        "Value": "67"
+       },
+       {
+        "OID": "I_VITAL_VS_TEMP",
+        "Value": "98.6"
+       },
+       {
+        "OID": "I_VITAL_VS_TUNIT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_UNITS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VITAL_VS_WGHT",
+        "Value": "135"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHYSICALEXAM_ENGLISH",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHYSI_UNGROUPED",
+      "Items": [
+       {
+        "OID": "I_PHYSI_ABDOMEN",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_APPEARANCE",
+        "Value": "2"
+       },
+       {
+        "OID": "I_PHYSI_APPEARANCE_COMMENTS",
+        "Value": "pale skin"
+       },
+       {
+        "OID": "I_PHYSI_BMI",
+        "Value": "21.14"
+       },
+       {
+        "OID": "I_PHYSI_BREAST",
+        "Value": "99"
+       },
+       {
+        "OID": "I_PHYSI_CHEST",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_DIASTOLIC",
+        "Value": "80"
+       },
+       {
+        "OID": "I_PHYSI_GENITALIA",
+        "Value": "99"
+       },
+       {
+        "OID": "I_PHYSI_HEART",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_HEENT",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_HEIGHT",
+        "Value": "67"
+       },
+       {
+        "OID": "I_PHYSI_LUNGS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_LYMPHNODES",
+        "Value": "2"
+       },
+       {
+        "OID": "I_PHYSI_LYMPHNODES_COMMENTS",
+        "Value": "slightly swolen"
+       },
+       {
+        "OID": "I_PHYSI_MUSCULOSKELETAL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_NEUROLOGICAL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PEDAT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHYSI_PELVIS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PETIM",
+        "Value": "13:45"
+       },
+       {
+        "OID": "I_PHYSI_PROSTATE",
+        "Value": "99"
+       },
+       {
+        "OID": "I_PHYSI_PULSE",
+        "Value": "80"
+       },
+       {
+        "OID": "I_PHYSI_RECTAL",
+        "Value": "99"
+       },
+       {
+        "OID": "I_PHYSI_RESPIRATION",
+        "Value": "14"
+       },
+       {
+        "OID": "I_PHYSI_SKIN",
+        "Value": "2"
+       },
+       {
+        "OID": "I_PHYSI_SKIN_COMMENTS",
+        "Value": "achne"
+       },
+       {
+        "OID": "I_PHYSI_SYSTOLIC",
+        "Value": "110"
+       },
+       {
+        "OID": "I_PHYSI_TEMPERATURE",
+        "Value": "98.6"
+       },
+       {
+        "OID": "I_PHYSI_THYROID",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_VASCULAR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_WEIGHT",
+        "Value": "135"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_RES",
+        "Value": "1"
+       },
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101001",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_1WEEKFU",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_PHARMACOKINE_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHARM_RESULTS",
+      "Items": [
+       {
+        "OID": "I_PHARM_PH_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHARM_PH_S1AT",
+        "Value": "10:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S1RS",
+        "Value": "200mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S1ST",
+        "Value": "10:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S2AT",
+        "Value": "12:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S2RS",
+        "Value": "190mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S2ST",
+        "Value": "12:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S3AT",
+        "Value": "13:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S3RS",
+        "Value": "180mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S3ST",
+        "Value": "13:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S4AT",
+        "Value": "14:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S4RS",
+        "Value": "178mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S4ST",
+        "Value": "14:00"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHYSICALACTI_V11",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHYSI_PHYSICAL",
+      "Items": [
+       {
+        "OID": "I_PHYSI_PEDATE",
+        "Value": "2015-08-31"
+       },
+       {
+        "OID": "I_PHYSI_PEDESC",
+        "Value": "stretching"
+       },
+       {
+        "OID": "I_PHYSI_PEDURATION",
+        "Value": "10 minutes"
+       },
+       {
+        "OID": "I_PHYSI_PEINTENSITY",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PETIME",
+        "Value": "1"
+       }
+      ]
+     },
+     {
+      "OID": "IG_PHYSI_PHYSICAL",
+      "Items": [
+       {
+        "OID": "I_PHYSI_PEDATE",
+        "Value": "2015-09-01"
+       },
+       {
+        "OID": "I_PHYSI_PEDESC",
+        "Value": "hiking"
+       },
+       {
+        "OID": "I_PHYSI_PEDURATION",
+        "Value": "1 hour"
+       },
+       {
+        "OID": "I_PHYSI_PEINTENSITY",
+        "Value": "3"
+       },
+       {
+        "OID": "I_PHYSI_PETIME",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PROMISFATIGU_ENGLISH",
+    "ItemGroups": [
+     {
+      "OID": "IG_PROMI_PROMIS",
+      "Items": [
+       {
+        "OID": "I_PROMI_FATEXP18",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP20",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP21",
+        "Value": "3"
+       },
+       {
+        "OID": "I_PROMI_FATEXP30",
+        "Value": "2"
+       },
+       {
+        "OID": "I_PROMI_FATEXP33",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP40",
+        "Value": "2"
+       },
+       {
+        "OID": "I_PROMI_FATEXP5",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VITALSIGNS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VITAL_VITALS",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_BMI",
+        "Value": "21.1"
+       },
+       {
+        "OID": "I_VITAL_VS_BPHR",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_COMM",
+        "Value": "Subject did not want vitals taken at this visit."
+       },
+       {
+        "OID": "I_VITAL_VS_HGHT",
+        "Value": "67"
+       },
+       {
+        "OID": "I_VITAL_VS_TEMP",
+        "Value": "98.6"
+       },
+       {
+        "OID": "I_VITAL_VS_TUNIT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_UNITS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VITAL_VS_WGHT",
+        "Value": "135"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_EATINGHABITS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_EATIN_HABITS",
+      "Items": [
+       {
+        "OID": "I_EATIN_ADULT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_CHILDREN",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_COOKFAT",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_DAIRY",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_DINNER",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_FRUITS",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_LVALONE",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_MEAT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_SUGARTSP",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_SWEETS",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_VEGGIE",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_VITSUPP",
+        "Value": "1"
+       }
+      ]
+     },
+     {
+      "OID": "IG_EATIN_VITAMINLOG",
+      "Items": [
+       {
+        "OID": "I_EATIN_AMTVIT",
+        "Value": "500mg / day"
+       },
+       {
+        "OID": "I_EATIN_NAMEVIT",
+        "Value": "Multi Vitamin"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_LOCALLABORAT_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_LOCAL_TESTS",
+      "Items": [
+       {
+        "OID": "I_LOCAL_CH_ALB",
+        "Value": "403"
+       },
+       {
+        "OID": "I_LOCAL_CH_CAL",
+        "Value": "403"
+       },
+       {
+        "OID": "I_LOCAL_CH_DT",
+        "Value": "2015-08-22"
+       },
+       {
+        "OID": "I_LOCAL_CH_POT",
+        "Value": "403"
+       },
+       {
+        "OID": "I_LOCAL_HEM_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_HEM_HEM",
+        "Value": "501"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RBC",
+        "Value": "501"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RHE",
+        "Value": "23"
+       },
+       {
+        "OID": "I_LOCAL_HEM_WBC",
+        "Value": "501"
+       },
+       {
+        "OID": "I_LOCAL_UR_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_UR_LEUK",
+        "Value": "1"
+       },
+       {
+        "OID": "I_LOCAL_UR_NITR",
+        "Value": "0"
+       },
+       {
+        "OID": "I_LOCAL_UR_PRO",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_RES",
+        "Value": "1"
+       },
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101001",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_2WEEKFU",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_RES",
+        "Value": "1"
+       },
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHARMACOKINE_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHARM_RESULTS",
+      "Items": [
+       {
+        "OID": "I_PHARM_PH_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHARM_PH_S1AT",
+        "Value": "11:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S1RS",
+        "Value": "200mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S1ST",
+        "Value": "11:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S2AT",
+        "Value": "13:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S2RS",
+        "Value": "194mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S2ST",
+        "Value": "13:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S3AT",
+        "Value": "14:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S3RS",
+        "Value": "190mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S3ST",
+        "Value": "14:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S4AT",
+        "Value": "15:00"
+       },
+       {
+        "OID": "I_PHARM_PH_S4RS",
+        "Value": "180mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S4ST",
+        "Value": "15:00"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHYSICALACTI_V11",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHYSI_PHYSICAL",
+      "Items": [
+       {
+        "OID": "I_PHYSI_PEDATE",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHYSI_PEDESC",
+        "Value": "walking"
+       },
+       {
+        "OID": "I_PHYSI_PEDURATION",
+        "Value": "10 minutes"
+       },
+       {
+        "OID": "I_PHYSI_PEINTENSITY",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PETIME",
+        "Value": "1"
+       }
+      ]
+     },
+     {
+      "OID": "IG_PHYSI_PHYSICAL",
+      "Items": [
+       {
+        "OID": "I_PHYSI_PEDATE",
+        "Value": "2015-08-22"
+       },
+       {
+        "OID": "I_PHYSI_PEDESC",
+        "Value": "biking"
+       },
+       {
+        "OID": "I_PHYSI_PEDURATION",
+        "Value": "1 hour"
+       },
+       {
+        "OID": "I_PHYSI_PEINTENSITY",
+        "Value": "2"
+       },
+       {
+        "OID": "I_PHYSI_PETIME",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PROMISFATIGU_ENGLISH",
+    "ItemGroups": [
+     {
+      "OID": "IG_PROMI_PROMIS",
+      "Items": [
+       {
+        "OID": "I_PROMI_FATEXP18",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP20",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP21",
+        "Value": "4"
+       },
+       {
+        "OID": "I_PROMI_FATEXP30",
+        "Value": "2"
+       },
+       {
+        "OID": "I_PROMI_FATEXP33",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP40",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP5",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VITALSIGNS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VITAL_BPLOG",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_DIABP",
+        "Value": "90"
+       },
+       {
+        "OID": "I_VITAL_VS_HR",
+        "Value": "78"
+       },
+       {
+        "OID": "I_VITAL_VS_SYSBP",
+        "Value": "111"
+       },
+       {
+        "OID": "I_VITAL_VS_TYPE",
+        "Value": "Supine"
+       }
+      ]
+     },
+     {
+      "OID": "IG_VITAL_BPLOG",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_DIABP",
+        "Value": "90"
+       },
+       {
+        "OID": "I_VITAL_VS_HR",
+        "Value": "79"
+       },
+       {
+        "OID": "I_VITAL_VS_SYSBP",
+        "Value": "111"
+       },
+       {
+        "OID": "I_VITAL_VS_TYPE",
+        "Value": "Standing"
+       }
+      ]
+     },
+     {
+      "OID": "IG_VITAL_VITALS",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_AVDIA",
+        "Value": "90"
+       },
+       {
+        "OID": "I_VITAL_VS_AVHR",
+        "Value": "79"
+       },
+       {
+        "OID": "I_VITAL_VS_AVSYS",
+        "Value": "111"
+       },
+       {
+        "OID": "I_VITAL_VS_BMI",
+        "Value": "22.6"
+       },
+       {
+        "OID": "I_VITAL_VS_BPHR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VITAL_VS_HGHT",
+        "Value": "66"
+       },
+       {
+        "OID": "I_VITAL_VS_TEMP",
+        "Value": "98.7"
+       },
+       {
+        "OID": "I_VITAL_VS_TUNIT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_UNITS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VITAL_VS_WGHT",
+        "Value": "140"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_LOCALLABORAT_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_LOCAL_TESTS",
+      "Items": [
+       {
+        "OID": "I_LOCAL_CH_ALB",
+        "Value": "300"
+       },
+       {
+        "OID": "I_LOCAL_CH_CAL",
+        "Value": "300"
+       },
+       {
+        "OID": "I_LOCAL_CH_DT",
+        "Value": "2015-08-31"
+       },
+       {
+        "OID": "I_LOCAL_CH_POT",
+        "Value": "300"
+       },
+       {
+        "OID": "I_LOCAL_HEM_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_HEM_HEM",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RBC",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RHE",
+        "Value": "34"
+       },
+       {
+        "OID": "I_LOCAL_HEM_WBC",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_UR_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_UR_LEUK",
+        "Value": "0"
+       },
+       {
+        "OID": "I_LOCAL_UR_NITR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_LOCAL_UR_PRO",
+        "Value": "9"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_EATINGHABITS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_EATIN_HABITS",
+      "Items": [
+       {
+        "OID": "I_EATIN_COOKFAT",
+        "Value": "1,2,5"
+       },
+       {
+        "OID": "I_EATIN_DAIRY",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_FRUITS",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_LVALONE",
+        "Value": "1"
+       },
+       {
+        "OID": "I_EATIN_MEAT",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_SUGARTSP",
+        "Value": "5"
+       },
+       {
+        "OID": "I_EATIN_SWEETS",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_VEGGIE",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_VITSUPP",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101001",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_MONTHLYFU",
+  "StudyEventRepeatKey": "1",
+  "Forms": [
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHARMACOKINE_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHARM_RESULTS",
+      "Items": [
+       {
+        "OID": "I_PHARM_PH_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHARM_PH_S1AT",
+        "Value": "12:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S1RS",
+        "Value": "198mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S1ST",
+        "Value": "12:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S2AT",
+        "Value": "14:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S2RS",
+        "Value": "188mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S2ST",
+        "Value": "14:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S3AT",
+        "Value": "15:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S3RS",
+        "Value": "178mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S3ST",
+        "Value": "15:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S4AT",
+        "Value": "16:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S4RS",
+        "Value": "168mg"
+       },
+       {
+        "OID": "I_PHARM_PH_S4ST",
+        "Value": "16:45"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHYSICALACTI_V11",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHYSI_PHYSICAL",
+      "Items": [
+       {
+        "OID": "I_PHYSI_PEDATE",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHYSI_PEDESC",
+        "Value": "running"
+       },
+       {
+        "OID": "I_PHYSI_PEDURATION",
+        "Value": "20 minutes"
+       },
+       {
+        "OID": "I_PHYSI_PEINTENSITY",
+        "Value": "3"
+       },
+       {
+        "OID": "I_PHYSI_PETIME",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PROMISFATIGU_ENGLISH",
+    "ItemGroups": [
+     {
+      "OID": "IG_PROMI_PROMIS",
+      "Items": [
+       {
+        "OID": "I_PROMI_FATEXP18",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP20",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP21",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP30",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP33",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP40",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP5",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VITALSIGNS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VITAL_VITALS",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_BMI",
+        "Value": "32.3"
+       },
+       {
+        "OID": "I_VITAL_VS_BPHR",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_COMM",
+        "Value": "Vitals not taken at this visit."
+       },
+       {
+        "OID": "I_VITAL_VS_HGHT",
+        "Value": "66"
+       },
+       {
+        "OID": "I_VITAL_VS_TEMP",
+        "Value": "98"
+       },
+       {
+        "OID": "I_VITAL_VS_TUNIT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_UNITS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VITAL_VS_WGHT",
+        "Value": "200"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_LOCALLABORAT_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_LOCAL_TESTS",
+      "Items": [
+       {
+        "OID": "I_LOCAL_CH_ALB",
+        "Value": "123"
+       },
+       {
+        "OID": "I_LOCAL_CH_CAL",
+        "Value": "1234"
+       },
+       {
+        "OID": "I_LOCAL_CH_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_CH_POT",
+        "Value": "123"
+       },
+       {
+        "OID": "I_LOCAL_HEM_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_HEM_HEM",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RBC",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RHE",
+        "Value": "34"
+       },
+       {
+        "OID": "I_LOCAL_HEM_WBC",
+        "Value": "500"
+       },
+       {
+        "OID": "I_LOCAL_UR_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_UR_LEUK",
+        "Value": "0"
+       },
+       {
+        "OID": "I_LOCAL_UR_NITR",
+        "Value": "0"
+       },
+       {
+        "OID": "I_LOCAL_UR_PRO",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_EATINGHABITS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_EATIN_HABITS",
+      "Items": [
+       {
+        "OID": "I_EATIN_COOKFAT",
+        "Value": "1,3"
+       },
+       {
+        "OID": "I_EATIN_DAIRY",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_FRUITS",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_LVALONE",
+        "Value": "1"
+       },
+       {
+        "OID": "I_EATIN_MEAT",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_SUGARTSP",
+        "Value": "5"
+       },
+       {
+        "OID": "I_EATIN_SWEETS",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_VEGGIE",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_VITSUPP",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101001",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_MONTHLYFU",
+  "StudyEventRepeatKey": "2",
+  "Forms": [
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHARMACOKINE_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHARM_RESULTS",
+      "Items": [
+       {
+        "OID": "I_PHARM_PH_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHARM_PH_S1AT",
+        "Value": "12:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S1RS",
+        "Value": "300"
+       },
+       {
+        "OID": "I_PHARM_PH_S1ST",
+        "Value": "12:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S2AT",
+        "Value": "14:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S2RS",
+        "Value": "250"
+       },
+       {
+        "OID": "I_PHARM_PH_S2ST",
+        "Value": "14:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S3AT",
+        "Value": "15:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S3RS",
+        "Value": "200"
+       },
+       {
+        "OID": "I_PHARM_PH_S3ST",
+        "Value": "15:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S4AT",
+        "Value": "16:45"
+       },
+       {
+        "OID": "I_PHARM_PH_S4RS",
+        "Value": "100"
+       },
+       {
+        "OID": "I_PHARM_PH_S4ST",
+        "Value": "16:45"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHYSICALACTI_V11",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHYSI_PHYSICAL",
+      "Items": [
+       {
+        "OID": "I_PHYSI_PEDATE",
+        "Value": "2015-08-14"
+       },
+       {
+        "OID": "I_PHYSI_PEDESC",
+        "Value": "running"
+       },
+       {
+        "OID": "I_PHYSI_PEDURATION",
+        "Value": "5 minutes"
+       },
+       {
+        "OID": "I_PHYSI_PEINTENSITY",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PETIME",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PROMISFATIGU_ENGLISH",
+    "ItemGroups": [
+     {
+      "OID": "IG_PROMI_PROMIS",
+      "Items": [
+       {
+        "OID": "I_PROMI_FATEXP18",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP20",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP21",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP30",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP33",
+        "Value": "0"
+       },
+       {
+        "OID": "I_PROMI_FATEXP40",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROMI_FATEXP5",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VITALSIGNS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VITAL_VITALS",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_COMM",
+        "Value": "Not completed."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_LOCALLABORAT_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_LOCAL_TESTS",
+      "Items": [
+       {
+        "OID": "I_LOCAL_HEM_DT",
+        "Value": "2015-08-21"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_EATINGHABITS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_EATIN_HABITS",
+      "Items": [
+       {
+        "OID": "I_EATIN_COOKFAT",
+        "Value": "1"
+       },
+       {
+        "OID": "I_EATIN_DAIRY",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_FRUITS",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_LVALONE",
+        "Value": "1"
+       },
+       {
+        "OID": "I_EATIN_MEAT",
+        "Value": "0"
+       },
+       {
+        "OID": "I_EATIN_SUGARTSP",
+        "Value": "4"
+       },
+       {
+        "OID": "I_EATIN_SWEETS",
+        "Value": "6"
+       },
+       {
+        "OID": "I_EATIN_VEGGIE",
+        "Value": "2"
+       },
+       {
+        "OID": "I_EATIN_VITSUPP",
+        "Value": "0"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101001",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_EOSORLFU",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_COMPLETIONDI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_COMPL_CD",
+      "Items": [
+       {
+        "OID": "I_COMPL_CD_YN",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101001",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_LOGS",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_PROTOCOLDEVI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_PROTO_PROTOCOLDEVIATIONLOG",
+      "Items": [
+       {
+        "OID": "I_PROTO_PD_DEV",
+        "Value": "Not performed"
+       },
+       {
+        "OID": "I_PROTO_PD_EVENT",
+        "Value": "4"
+       },
+       {
+        "OID": "I_PROTO_PD_PRODEV",
+        "Value": "5"
+       },
+       {
+        "OID": "I_PROTO_PD_REA",
+        "Value": "Subject did not want vitals taken at this visit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_SERIOUSADVER_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_SERIO_SAE1",
+      "Items": [
+       {
+        "OID": "I_SERIO_SAE1_YN",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_ADVERSEEVENT_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_ADVER_AELOG",
+      "Items": [
+       {
+        "OID": "I_ADVER_AE_ACT",
+        "Value": "1"
+       },
+       {
+        "OID": "I_ADVER_AE_DESC",
+        "Value": "headache"
+       },
+       {
+        "OID": "I_ADVER_AE_DTON",
+        "Value": "2015-08-31"
+       },
+       {
+        "OID": "I_ADVER_AE_DTRE",
+        "Value": "2015-08-31"
+       },
+       {
+        "OID": "I_ADVER_AE_OUT",
+        "Value": "1"
+       },
+       {
+        "OID": "I_ADVER_AE_SEV",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_CONCOMITANTM_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_CONCO_CONMEDLOG",
+      "Items": [
+       {
+        "OID": "I_CONCO_CM_DOSE",
+        "Value": "10mg"
+       },
+       {
+        "OID": "I_CONCO_CM_FREQ",
+        "Value": "2"
+       },
+       {
+        "OID": "I_CONCO_CM_IND",
+        "Value": "high blood pressure"
+       },
+       {
+        "OID": "I_CONCO_CM_MED",
+        "Value": "Lipitor"
+       },
+       {
+        "OID": "I_CONCO_CM_ONGNG",
+        "Value": "1"
+       },
+       {
+        "OID": "I_CONCO_CM_STDT",
+        "Value": "1990-06"
+       }
+      ]
+     },
+     {
+      "OID": "IG_CONCO_CONMEDS",
+      "Items": [
+       {
+        "OID": "I_CONCO_CM_YN",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101001",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_INITIALVISIT",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_DEMOGRAPHICS_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_DEMOG_DEMO",
+      "Items": [
+       {
+        "OID": "I_DEMOG_DEM_AGE",
+        "Value": "33 Years "
+       },
+       {
+        "OID": "I_DEMOG_DEM_EDU",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_ETH",
+        "Value": "1"
+       },
+       {
+        "OID": "I_DEMOG_DEM_GEN",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_MAR",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_RACE",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_INCLUSIONEXC_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_INCLU_ELIGIBILITY",
+      "Items": [
+       {
+        "OID": "I_INCLU_EX_EVINF",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_HEP",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_MENTL",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_OGTT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_PREG",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_RECNT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_STRKE",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_INEX_ELIG",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_IN_18YO",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_CMSSR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_FLENG",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_IN_FPLGL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_HEAC1",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_IN_IC",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_IN_T2MEL",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101002",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_EOSORLFU",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_COMPLETIONDI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_COMPL_CD",
+      "Items": [
+       {
+        "OID": "I_COMPL_CD_OTH",
+        "Value": "1"
+       },
+       {
+        "OID": "I_COMPL_CD_YN",
+        "Value": "2"
+       },
+       {
+        "OID": "I_COMPL_OTH_SP",
+        "Value": "Not eligible for study."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101002",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_LOGS",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_PROTOCOLDEVI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_PROTO_PROTOCOLDEVIATIONLOG",
+      "Items": [
+       {
+        "OID": "I_PROTO_PD_DEV",
+        "Value": "Does not meet inclusion criteria"
+       },
+       {
+        "OID": "I_PROTO_PD_EVENT",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROTO_PD_PRODEV",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PROTO_PD_REA",
+        "Value": "Subject did not provide consent"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101002",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_INITIALVISIT",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_DEMOGRAPHICS_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_DEMOG_DEMO",
+      "Items": [
+       {
+        "OID": "I_DEMOG_DEM_AGE",
+        "Value": "62 Years "
+       },
+       {
+        "OID": "I_DEMOG_DEM_EDU",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_ETH",
+        "Value": "1"
+       },
+       {
+        "OID": "I_DEMOG_DEM_GEN",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_MAR",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_RACE",
+        "Value": "1,4"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_DIABETESHIST_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_DIABE_DIABETES",
+      "Items": [
+       {
+        "OID": "I_DIABE_AUTONOMIC_NEUROPATHY_MHOCCU",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_DIABETES_CMOCCUR",
+        "Value": "Y"
+       },
+       {
+        "OID": "I_DIABE_DIABETES_CMSTDAT",
+        "Value": "2000-08-31"
+       },
+       {
+        "OID": "I_DIABE_DIABETES_MHSTDAT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_DIABE_DIABETIC_NEPHROPATHY_MHOCCU",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_INSULIN_CMOCCUR",
+        "Value": "Y"
+       },
+       {
+        "OID": "I_DIABE_INSULIN_CMSTDAT",
+        "Value": "2000-08-31"
+       },
+       {
+        "OID": "I_DIABE_OTHER_DIABETIC_NEUROPATHY_M",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_RETINOPATHY_MHOCCUR",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_SEVERE_HYPOGLYCEMIC_REACTIO",
+        "Value": "N"
+       },
+       {
+        "OID": "I_DIABE_SGOCCUR",
+        "Value": "N"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_INCLUSIONEXC_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_INCLU_ELIGIBILITY",
+      "Items": [
+       {
+        "OID": "I_INCLU_EX_EVINF",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_HEP",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_MENTL",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_OGTT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_PREG",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_RECNT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_STRKE",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_INEX_ELIG",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_18YO",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_CMSSR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_DT_IC",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_INCLU_IN_FLENG",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_FPLGL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_HEAC1",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_IC",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_T2MEL",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_LOCALLABORAT_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_LOCAL_TESTS",
+      "Items": [
+       {
+        "OID": "I_LOCAL_ALB_UNITS",
+        "Value": "g/dL"
+       },
+       {
+        "OID": "I_LOCAL_CAL_UNITS",
+        "Value": "mg/dL"
+       },
+       {
+        "OID": "I_LOCAL_CH_ALB",
+        "Value": "400"
+       },
+       {
+        "OID": "I_LOCAL_CH_CAL",
+        "Value": "400"
+       },
+       {
+        "OID": "I_LOCAL_CH_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_CH_POT",
+        "Value": "400"
+       },
+       {
+        "OID": "I_LOCAL_HEM_DT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_LOCAL_HEM_HEM",
+        "Value": "400"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RBC",
+        "Value": "400"
+       },
+       {
+        "OID": "I_LOCAL_HEM_RHE",
+        "Value": "20"
+       },
+       {
+        "OID": "I_LOCAL_HEM_UNITS",
+        "Value": "gm/dL"
+       },
+       {
+        "OID": "I_LOCAL_HEM_WBC",
+        "Value": "400"
+       },
+       {
+        "OID": "I_LOCAL_POT_UNITS",
+        "Value": "mEq/L"
+       },
+       {
+        "OID": "I_LOCAL_RBC_UNITS",
+        "Value": "trillion cells/L"
+       },
+       {
+        "OID": "I_LOCAL_RHE_UNITS",
+        "Value": "IU/mL"
+       },
+       {
+        "OID": "I_LOCAL_SITE_AB",
+        "Value": "101"
+       },
+       {
+        "OID": "I_LOCAL_SITE_DEC",
+        "Value": "SiteA"
+       },
+       {
+        "OID": "I_LOCAL_UR_DT",
+        "Value": "2015-08-04"
+       },
+       {
+        "OID": "I_LOCAL_UR_LEUK",
+        "Value": "1"
+       },
+       {
+        "OID": "I_LOCAL_UR_NITR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_LOCAL_UR_PRO",
+        "Value": "4"
+       },
+       {
+        "OID": "I_LOCAL_WBC_UNITS",
+        "Value": "billion cells/L"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_MEDICALHISTO_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MEDIC_G1",
+      "Items": [
+       {
+        "OID": "I_MEDIC_PER_DATE",
+        "Value": "1992-06"
+       },
+       {
+        "OID": "I_MEDIC_PER_DIAG",
+        "Value": "Heart disease"
+       }
+      ]
+     },
+     {
+      "OID": "IG_MEDIC_G1",
+      "Items": [
+       {
+        "OID": "I_MEDIC_PER_DATE",
+        "Value": "1987"
+       },
+       {
+        "OID": "I_MEDIC_PER_DIAG",
+        "Value": "Migraines"
+       }
+      ]
+     },
+     {
+      "OID": "IG_MEDIC_G2",
+      "Items": [
+       {
+        "OID": "I_MEDIC_FAM_DATE",
+        "Value": "1976"
+       },
+       {
+        "OID": "I_MEDIC_FAM_DIAG",
+        "Value": "breast cancer"
+       },
+       {
+        "OID": "I_MEDIC_FAM_ID",
+        "Value": "7"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VERIFICATION_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VERIF_VERIFY",
+      "Items": [
+       {
+        "OID": "I_VERIF_ELIGIBILITY_CONF",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VERIF_VERI_DATE",
+        "Value": "2015-08-25"
+       },
+       {
+        "OID": "I_VERIF_VERI_INIT",
+        "Value": "AGT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_VITALSIGNS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VITAL_VITALS",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_BMI",
+        "Value": "23.3"
+       },
+       {
+        "OID": "I_VITAL_VS_BPHR",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_HGHT",
+        "Value": "65"
+       },
+       {
+        "OID": "I_VITAL_VS_TEMP",
+        "Value": "98.8"
+       },
+       {
+        "OID": "I_VITAL_VS_TUNIT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_VITAL_VS_UNITS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_VITAL_VS_WGHT",
+        "Value": "140"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHYSICALEXAM_ENGLISH",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHYSI_OTHERBODYSYSTEMSITE",
+      "Items": [
+       {
+        "OID": "I_PHYSI_OTHERBODYSYSTEM",
+        "Value": "Eyes"
+       },
+       {
+        "OID": "I_PHYSI_OTHERBODYSYSTEM_COMMENTS",
+        "Value": "Bad vision"
+       },
+       {
+        "OID": "I_PHYSI_OTHERBODYSYSTEM_STATUS",
+        "Value": "2"
+       }
+      ]
+     },
+     {
+      "OID": "IG_PHYSI_UNGROUPED",
+      "Items": [
+       {
+        "OID": "I_PHYSI_ABDOMEN",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_APPEARANCE",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_BMI",
+        "Value": "23.29"
+       },
+       {
+        "OID": "I_PHYSI_BREAST",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_CHEST",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_DIASTOLIC",
+        "Value": "90"
+       },
+       {
+        "OID": "I_PHYSI_GENITALIA",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_HEART",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_HEENT",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_HEIGHT",
+        "Value": "65"
+       },
+       {
+        "OID": "I_PHYSI_LUNGS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_LYMPHNODES",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_MUSCULOSKELETAL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_NEUROLOGICAL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PEDAT",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_PHYSI_PELVIS",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PETIM",
+        "Value": "12:30"
+       },
+       {
+        "OID": "I_PHYSI_PROSTATE",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_PULSE",
+        "Value": "76"
+       },
+       {
+        "OID": "I_PHYSI_RECTAL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_RESPIRATION",
+        "Value": "12"
+       },
+       {
+        "OID": "I_PHYSI_SKIN",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_SYSTOLIC",
+        "Value": "115"
+       },
+       {
+        "OID": "I_PHYSI_TEMPERATURE",
+        "Value": "98.8"
+       },
+       {
+        "OID": "I_PHYSI_THYROID",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_VASCULAR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_PHYSI_WEIGHT",
+        "Value": "140"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_AB",
+        "Value": "Mass in brain"
+       },
+       {
+        "OID": "I_MRI_MRI_RES",
+        "Value": "2"
+       },
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101003",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_1WEEKFU",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_VITALSIGNS_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_VITAL_VITALS",
+      "Items": [
+       {
+        "OID": "I_VITAL_VS_TEMP",
+        "Value": "103"
+       },
+       {
+        "OID": "I_VITAL_VS_TUNIT",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_LOCALLABORAT_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_LOCAL_TESTS",
+      "Items": [
+       {
+        "OID": "I_LOCAL_SITE_AB",
+        "Value": "101"
+       },
+       {
+        "OID": "I_LOCAL_SITE_DEC",
+        "Value": "SiteA"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_AB",
+        "Value": "Mass still in brain"
+       },
+       {
+        "OID": "I_MRI_MRI_RES",
+        "Value": "2"
+       },
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101003",
+  "SiteId": "S_101"
+ },
+ {
+  "OID": "SE_INITIALVISIT",
+  "StudyEventRepeatKey": "",
+  "Forms": [
+   {
+    "OID": "F_DEMOGRAPHICS_V20",
+    "ItemGroups": [
+     {
+      "OID": "IG_DEMOG_DEMO",
+      "Items": [
+       {
+        "OID": "I_DEMOG_DEM_AGE",
+        "Value": "57 Years "
+       },
+       {
+        "OID": "I_DEMOG_DEM_EDU",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_ETH",
+        "Value": "1"
+       },
+       {
+        "OID": "I_DEMOG_DEM_GEN",
+        "Value": "1"
+       },
+       {
+        "OID": "I_DEMOG_DEM_MAR",
+        "Value": "2"
+       },
+       {
+        "OID": "I_DEMOG_DEM_RACE",
+        "Value": "4,5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_INCLUSIONEXC_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_INCLU_ELIGIBILITY",
+      "Items": [
+       {
+        "OID": "I_INCLU_EX_EVINF",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_HEP",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_MENTL",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_OGTT",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_PREG",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_EX_RECNT",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_EX_STRKE",
+        "Value": "2"
+       },
+       {
+        "OID": "I_INCLU_INEX_ELIG",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_18YO",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_CMSSR",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_DT_IC",
+        "Value": "2015-08-21"
+       },
+       {
+        "OID": "I_INCLU_IN_FLENG",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_FPLGL",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_HEAC1",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_IC",
+        "Value": "1"
+       },
+       {
+        "OID": "I_INCLU_IN_T2MEL",
+        "Value": "1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_PHYSICALEXAM_ENGLISH",
+    "ItemGroups": [
+     {
+      "OID": "IG_PHYSI_UNGROUPED",
+      "Items": [
+       {
+        "OID": "I_PHYSI_BMI",
+        "Value": "23.56"
+       },
+       {
+        "OID": "I_PHYSI_HEIGHT",
+        "Value": "63"
+       },
+       {
+        "OID": "I_PHYSI_WEIGHT",
+        "Value": "133"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_MRI_V10",
+    "ItemGroups": [
+     {
+      "OID": "IG_MRI_MRI",
+      "Items": [
+       {
+        "OID": "I_MRI_MRI_YN",
+        "Value": "2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "OID": "F_RANDOMIZATIO_V2",
+    "ItemGroups": [
+     {
+      "OID": "IG_RANDO_RANDOMIZATION",
+      "Items": [
+       {
+        "OID": "I_RANDO_R1BMI",
+        "Value": "Less Than or Equal to 27"
+       },
+       {
+        "OID": "I_RANDO_R1GENDER",
+        "Value": "Male"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "PatientId": "SS_101004",
+  "SiteId": "S_101"
+ }
+]
