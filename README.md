@@ -15,4 +15,6 @@ install:
 
 1- pip install durable_rules
 
-2- python run.py
+2- python rule1&2.py
+
+3- python rule3.py
